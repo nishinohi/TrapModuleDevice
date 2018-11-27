@@ -1,0 +1,6 @@
+**.b#*
+**.s#*
+**.pro
+**.pdf
+/seeed-fusion/**
+!/seeed-fusion/.gitkeep
